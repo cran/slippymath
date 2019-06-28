@@ -1,6 +1,6 @@
 Package: slippymath
 Title: Slippy Map Tile Tools
-Version: 0.3.0
+Version: 0.3.1
 Authors@R: c(
     person("Miles", "McBain", email = "miles.mcbain@gmail.com", role = c("aut", "cre"), 
     comment = c(ORCID = "0000-0003-2865-2548")),
@@ -18,12 +18,12 @@ Encoding: UTF-8
 LazyData: true
 Imports: raster, purrr, stats, png
 Suggests: testthat, knitr, rmarkdown
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-03-08 12:11:32 UTC; miles
+Packaged: 2019-06-28 15:28:10 UTC; miles
 Author: Miles McBain [aut, cre] (<https://orcid.org/0000-0003-2865-2548>),
   Michael Sumner [aut]
 Maintainer: Miles McBain <miles.mcbain@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-03-10 08:40:03 UTC
+Date/Publication: 2019-06-28 16:20:03 UTC
